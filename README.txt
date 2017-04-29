@@ -1,3 +1,3 @@
 To jest prosty projekt kalkulatora.
 
-Autor: Jacek
+Autor: Jakub Kawka
