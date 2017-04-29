@@ -5,3 +5,5 @@ def dodawanie():
 
 
 dodawanie()
+
+# poprawka
